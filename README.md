@@ -1,6 +1,6 @@
 # Visualizing ARTI Output
 
-A Python-based analysis tool designed to process **CORSIKA/ARTI** simulation data. This script calculates muon flux intensity, fits the data to the theoretical $I_0 \cos^2\theta$ model, and generates high-resolution visualizations with embedded simulation metadata.
+A Python-based analysis tool for processing **CORSIKA/ARTI** simulation data. This script calculates muon flux intensity, fits the data to the theoretical $I_0 \cos^2\theta$ model, and generates high-resolution visualizations with embedded simulation metadata.
 
 ## 🚀 Features
 * **Metadata Persistence:** Automatically embeds location name, altitude, atmospheric model, and particle counts directly into the plot image.
@@ -20,7 +20,7 @@ Ensure you have Python 3.8+ installed. You will need the following libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/JKariithi/visualizing-arti-output.git
    cd visualizing-arti-output
    ```
 
