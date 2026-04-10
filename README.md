@@ -60,10 +60,10 @@ Upon running, the script will prompt you for:
 1. **Location Name** (e.g., Chyulu Hills)
 2. **Altitude** (e.g., 2500m)
 3. **Atmospheric Model** (e.g., E1)
-4. **Simulation Time** (The duration in seconds the simulation was set to represent)
+4. **Simulation Time** (e.g., 1)
 
 ## 📊 Output
-The script generates a `.png` file named according to your metadata (e.g., `Muon_Dist_Chyulu_Hills_2500m_E1.png`). 
+The script generates a `.png` file named according to your metadata (e.g., `Chyulu_Hills_2500m_E1_T1.png`). 
 
 **The final plot includes:**
 * A scatter plot of simulated muon flux.
